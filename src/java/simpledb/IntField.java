@@ -83,4 +83,5 @@ public class IntField implements Field {
 	public Type getType() {
 		return Type.INT_TYPE;
 	}
+
 }
